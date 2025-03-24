@@ -1,6 +1,7 @@
 import requests
-from tenacity import retry, stop_after_attempt, wait_exponential
 from aiobreaker import CircuitBreaker
+from tenacity import retry, stop_after_attempt, wait_exponential
+
 from app.core.config import settings
 from app.core.exceptions import AppException
 

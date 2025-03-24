@@ -6,6 +6,7 @@
 [![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-2.0+-orange.svg)](https://www.sqlalchemy.org/)
 [![Docker](https://img.shields.io/badge/docker-ready-blue.svg)](https://www.docker.com/)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE)
+[![CI](https://github.com/maxvictor/fastapi_boilerplate/actions/workflows/test.yml/badge.svg)](https://github.com/maxvictor/fastapi_boilerplate/actions)
 
 ---
 
